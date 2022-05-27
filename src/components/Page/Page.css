@@ -1,0 +1,12 @@
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  border-radius: var(--main-border-radius);
+  color: var(--main-text-color);
+  background-color: var(--bg-color--card);
+  width: 85%;
+  max-width: 675px;
+  min-height: 300px;
+}
